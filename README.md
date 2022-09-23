@@ -1,5 +1,5 @@
 # WELCOME To Data Analytics Projects!
-<h2>Here I have done  most important projects.</h2>
+<h2>Here I have done most important projects.</h2>
 <h3>1- HR Analytics
     In this project I built a PowerBI dashboard for HR Manager to get insights of their employee's attendance behaviour.</h3>
 <h3>2- Personal Finance Dashboard
